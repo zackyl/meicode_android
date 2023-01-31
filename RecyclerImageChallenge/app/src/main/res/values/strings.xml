@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Recycler Image Challenge</string>
+    <string name="register">Register</string>
+    <string name="country_tag">Country:</string>
+    <string name="other_gender">Other</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="gender_tag">Gender:</string>
+    <string-array name="countries_array">
+        <item>Germany</item>
+        <item>United States</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+        <item>France</item>
+        <item>China</item>
+        <item>South Korea</item>
+        <item>Japan</item>
+    </string-array>
+</resources>
